@@ -1,0 +1,14 @@
+env:
+  # Get these values from the Firebase console
+  - variable: NEXT_PUBLIC_FIREBASE_API_KEY
+    value: "AIzaSyDBgtevtZ-rgi2OzYRAtnUWuLUmjd4Buf0"
+  - variable: NEXT_PUBLIC_FIREBASE_AUTH_DOMAIN
+    value: "friendlyeats-web-7dce3.firebaseapp.com"
+  - variable: NEXT_PUBLIC_FIREBASE_PROJECT_ID
+    value: "friendlyeats-web-7dce3"
+  - variable: NEXT_PUBLIC_FIREBASE_STORAGE_BUCKET
+    value: "friendlyeats-web-7dce3.firebasestorage.app"
+  - variable: NEXT_PUBLIC_FIREBASE_MESSAGING_SENDER_ID
+    value: "121554033008"
+  - variable: NEXT_PUBLIC_FIREBASE_APP_ID
+    value: "1:121554033008:web:916bd288dbdaddad39d7b5"
